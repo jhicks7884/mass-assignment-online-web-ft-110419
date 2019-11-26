@@ -7,6 +7,6 @@ class Person
    @@all = []
 
   def initialize
-    @@all = []
+    @name = name
   end
 end
